@@ -1,7 +1,11 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
-date: "`r Sys.Date()`"
+title: "Polarisation and Cultural Realignment in Britain, 2014-2019"
+subtitle: "David T. Caldwell"
+author: 
+- "Thesis submitted for the degree of Doctor of Philosophy"
+- "Durham University" 
+- "School of Government and International Affairs"
+date: "November 2022"
 site: bookdown::bookdown_site
 ---
 
